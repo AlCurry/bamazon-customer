@@ -12,6 +12,9 @@
 
     Database schema defined in schema.sql.
 
+    Because of time constraints, most error checking and validation is not included, 
+    in a production environment it would be added.
+
 */
 
 var mysql = require("mysql");
