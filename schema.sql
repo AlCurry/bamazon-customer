@@ -1,5 +1,5 @@
 /*
-    /*
+   
     Al Curry          March 14, 2018
     
     GWU Full Stack Web Development program
