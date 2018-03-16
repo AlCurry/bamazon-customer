@@ -4,14 +4,17 @@
     
     GWU Full Stack Web Development program
 
-    Homework 12 - Node JS & mySQL
+    Homework 12A - Node JS & mySQL
 
     Defines "bamazon" database and products table.   
     Works with node js file bamazonCustomer.js
 
     After creating database and product table, 10 products are inserted.
 
-    Though I worked with Sybase for many years, it's interesting to see the differences and similarities working with mySql.  Most of my Sybase work interfaced with C programs using now vintage dblib connections.  Some was also with Unix scripting languages, and writing multi-page stored proceducres.  The node js interface is good to work with, though at times an adjustment.
+    Though I worked with Sybase for many years, it's interesting to see the differences and similarities 
+    working with mySql.  Most of my Sybase work interfaced with C programs using now vintage dblib connections.  
+    Some was also with Unix scripting languages, and writing multi-page stored proceducres.  The node js 
+    interface is good to work with, though at times an adjustment.
 
 */
 
